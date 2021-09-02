@@ -26,7 +26,7 @@ The steps are the following:
     - morpology will contain a string input, using the values of the TraCES annotations separated by semi-column, e.g. "Third;Singular;Masculine" or "Common Noun;feminineNP;SingularP UnmarkedS;Nominative;Construct state", the list is below. Any order, any combination. Since the values are all different, the type of label will be associated by the application.
     - you can add comments, this are however not exported at the moment.
 - once you are done, export the json file and commit it to the main branch of this repository. 
-- the application will transform the data and store it where needed so that it will be immediatly used.
+- [the application](https://github.com/BetaMasaheft/alpheios2fs) will transform the data and store it where needed so that it will be immediatly used.
 
 list of allowed [values, extracted from current TraCES data](https://github.com/BetaMasaheft/alpheios2fs/blob/main/alpheiosannotations/tracesValues.xml) 
 
