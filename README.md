@@ -28,7 +28,7 @@ The steps are the following:
 - once you are done, export the json file and commit it to the main branch of this repository. 
 - the application will transform the data and store it where needed so that it will be immediatly used.
 
-list of allowed values, extracted from current TraCES data 
+list of allowed [values, extracted from current TraCES data](https://github.com/BetaMasaheft/alpheios2fs/blob/main/alpheiosannotations/tracesValues.xml) 
 
 ### number
 SingularP UnmarkedS, SingularP SingularS, SingularP, Singular, Plural, PluralIntP PluralS, PluralIntP, PluralIntP SingularS+ PluralS, PluralIntP SingularS, unmarkedP SingularS, PluralIntP UnmarkedS, PluralPl, PluralExtP, , PluralExtP UnmarkedS, Collective, PluralExtP PluralS, unmarkedP UnmarkedS, PluralPlP UnmarkedS, SingularP PluralS, PluralExtP SingularS, PluralPlP PluralS, PluralExtP SingularS+ PluralS, SingularP SingularS+ PluralS, unmarkedP PluralS, PluralPlP SingularS, unmarkedP, Unmarked.
