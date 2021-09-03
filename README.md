@@ -9,7 +9,7 @@ Ideally you will use this to
 This is an alternative simplified workflow for adding morphological annotations. It does not have all the features of the GETA tool, but is included in the workflow, so that you can immediately see your annotations exploited. It is suggested for smaller pieces of alignment work or larger efforts done bit by bit.
 The transliteration is not computed, you can try this tool if you do not have others https://betamasaheft.github.io/transliteration/ to obtain an initial one.
 
-When doing this sort of annotations, you can additionally watch the following screencast. https://www.awesomescreenshot.com/video/5079573
+When doing this sort of annotations, you can additionally watch the following screencast.https://www.awesomescreenshot.com/video/5079573?key=e8ade0fa6c5a08ad4afa2ff4e24140ee
 
 The steps are the following:
 - copy paste or import from DTS your text
