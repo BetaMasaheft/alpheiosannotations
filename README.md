@@ -51,11 +51,8 @@ unmarked, masculineN, masculineS, masculineP, Communis, Masculine, Feminine, mas
 ### person
 First, Third, Second.
 
-### tamp
-Perfect, subjunctive, Gerund, , Imperfect.
-
 ### state
-Nominal state, Construct state, Absolute state, Pronominal state, , Feminine.
+Nominal state, Construct state, Absolute state, Pronominal state.
 
-### tam
-Perfect, Imperfect, subjunctive, Subjunctive, infinitive, Gerund, Imperative, Infinitive, gerund.
+### temp
+Perfect, Imperfect, Subjunctive, Gerund, Imperative, Infinitive.
