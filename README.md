@@ -16,7 +16,7 @@ The steps are the following:
 - copy paste or keydown the tranliteration
 - follow details to enter metadata (IMPORTANT!!!) 
 - follow alpheios guidance to prepare text (video above)
-- edit the text to split tokens in the transliteration (conjunctoins, pronouns, etc.)
+- edit the text to split tokens in the transliteration (conjunctions, pronouns, etc.)
 - do the alignment, carefully clicking until the alignment group is saved
 - deactivate annotation mode if on
 - double-click on one word of the gez text to pull up the information from the morphological parser + Dillmann
