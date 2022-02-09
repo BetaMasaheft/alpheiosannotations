@@ -30,14 +30,61 @@ The steps are the following:
 
 list of allowed [values, extracted from current TraCES data](https://github.com/BetaMasaheft/alpheios2fs/blob/main/alpheiosannotations/tracesValues.xml) 
 
+
+### pos 
+<val>Preposition</val>
+        <val>Common Noun</val>,
+        <val>Conjunction</val>,
+        <val>Independent Personal Pronoun</val>,
+        <val>Proper Name</val>,
+        <val>Verb</val>,
+        <val>Pronominal Suffix</val>,
+        <val>Other Adverb</val>,
+        <val>Relative Pronoun</val>,
+        <val>Punctuation</val>,
+        <val>Pronoun of Totality Base</val>,
+        <val>Cardinal Numeral</val>,
+        <val>Demonstrative Pronoun</val>,
+        <val>Negative Particle</val>,
+        <val>Presentational Particle Base</val>,
+        <val>Interrogative Adverb</val>,
+        <val>Other Particle</val>,
+        <val>Pronoun of Solitude Base</val>,
+        <val>Adverb</val>,
+        <val>Interrogative Pronoun</val>,
+        <val>Object Pronoun Base</val>,
+        <val>Interrogative Particle</val>,
+        <val>Quotative Particle</val>,
+        <val>Subject Pronoun Base</val>,
+        <val>Deictic Imperative Particle</val>,
+        <val>Existential Negative Base</val>,
+        <val>Foreign Material</val>,
+        <val>Affirmative Particle</val>,
+        <val>Existential Affirmative Base</val>,
+        <val>Interjection</val>,
+        <val>Vocative Particle</val>,
+        <val>Ordinal Numeral</val>,
+        <val>Accusative Particle</val>,
+        <val>Possesive Pronoun Base</val>
+        
 ### number
-SingularP UnmarkedS, SingularP SingularS, SingularP, Singular, Plural, PluralIntP PluralS, PluralIntP, PluralIntP SingularS+ PluralS, PluralIntP SingularS, unmarkedP SingularS, PluralIntP UnmarkedS, PluralPl, PluralExtP, , PluralExtP UnmarkedS, Collective, PluralExtP PluralS, unmarkedP UnmarkedS, PluralPlP UnmarkedS, SingularP PluralS, PluralExtP SingularS, PluralPlP PluralS, PluralExtP SingularS+ PluralS, SingularP SingularS+ PluralS, unmarkedP PluralS, PluralPlP SingularS, unmarkedP, Unmarked.
+ <val>Singular</val>,
+        <val>Plural</val>,
+        <val>Unmarked</val>,
+        <val>SingularS</val>,
+        <val>PluralS</val>,
+        <val>UnmarkedS</val>,
+        <val>SingularP</val>,
+        <val>PluralIntP</val>,
+        <val>PluralExtP</val>,
+        <val>PluralPlP</val>,
+        <val>PluralPl</val>,
+        <val>UnmarkedP</val>,
+        <val>Collective</val>
+  (multiple values possible)   
 
 ### case
 Nominative, Accusative, Vocative.
-
-### pos 
-Preposition, Common Noun, Conjunction, Independent Personal Pronoun, Proper Name, Verb, Pronominal Suffix, Other Adverb, Relative Pronoun, Punctuation, Pronoun of Totality Base, Cardinal Numeral, Demonstrative Pronoun, Negative Particle, Presentational Particle Base, Verbs, Interrogative Adverb, Other Particle, Pronoun of Solitude Base, Adverb, Interrogative Pronoun, Object Pronoun Base, Interrogative Particle, Quotative Particle, Subject Pronoun Base, Deictic Imperative Particle, Existential Negative Base, Foreign Material, Affirmative Particle, Existential Affirmative Base, Interjection, Vocative Particle, Ordinal Numeral, Accusative Particle, Possesive Pronoun Base, Other Particles, Existentials Affirmative base, Adverbs.
 
 ### logogram
 20, 3, 2, 1, 5, 4, 100, 10, 6, 9, 50, 7, 8, 80, 10000, 60, 30, 40, 70, 90.
@@ -46,7 +93,28 @@ Preposition, Common Noun, Conjunction, Independent Personal Pronoun, Proper Name
 Near, Far.
 
 ### gender
-unmarked, masculineN, masculineS, masculineP, Communis, Masculine, Feminine, masculinePS, masculine, feminineS, Nominal state, feminineN, femininePS, feminineP, masculineNS, , S, Unmarked, S unmarked, masculineS feminineS, Pronominal state, masculineS femininePS, feminineNPS, masculineS feminineP, masculineNP, feminineNS, feminineNP, P, masculineNPS, masculineP feminineS, feminine, Sunmarked.
+ <val>Unmarked</val>,
+        <val>MasculineN</val>,
+        <val>MasculineS</val>,
+        <val>MasculineP</val>,
+        <val>Communis</val>,
+        <val>Masculine</val>,
+        <val>Feminine</val>,
+        <val>MasculinePS</val>,
+        <val>FeminineS</val>,
+        <val>FeminineN</val>,
+        <val>FemininePS</val>,
+        <val>FeminineP</val>,
+        <val>MasculineNS</val>,
+        <val>S</val>,
+        <val>Sunmarked</val>,
+        <val>FeminineNPS</val>,
+        <val>MasculineNP</val>,
+        <val>FeminineNS</val>,
+        <val>FeminineNP</val>,
+        <val>P</val>,
+        <val>MasculineNPS</val>
+(multiple values possible)
 
 ### person
 First, Third, Second.
