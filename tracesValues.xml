@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<traces>
+    <name name="number">
+        <val>Singular</val>
+        <val>Plural</val>
+        <val>Unmarked</val>
+        <val>SingularS</val>
+        <val>PluralS</val>
+        <val>UnmarkedS</val>
+        <val>SingularP</val>
+        <val>PluralIntP</val>
+        <val>PluralExtP</val>
+        <val>PluralPlP</val>
+        <val>PluralPl</val>
+        <val>UnmarkedP</val>
+        <val>SingularP UnmarkedS</val>
+        <val>SingularP SingularS</val>
+        <val>PluralIntP PluralS</val>
+        <val>PluralIntP SingularS PluralS</val>
+        <val>PluralIntP SingularS</val>
+        <val>UnmarkedP SingularS</val>
+        <val>PluralIntP UnmarkedS</val>
+        <val>PluralExtP UnmarkedS</val>
+        <val>Collective</val>
+        <val>PluralExtP PluralS</val>
+        <val>UnmarkedP UnmarkedS</val>
+        <val>PluralPlP UnmarkedS</val>
+        <val>SingularP PluralS</val>
+        <val>PluralExtP SingularS</val>
+        <val>PluralPlP PluralS</val>
+        <val>PluralExtP SingularS PluralS</val>
+        <val>SingularP SingularS PluralS</val>
+        <val>UnmarkedP PluralS</val>
+        <val>PluralPlP SingularS</val>
+    </name>
+    <name name="case">
+        <val>Nominative</val>
+        <val>Accusative</val>
+        <val>Vocative</val>
+    </name>
+    <name name="pos">
+        <val>Preposition</val>
+        <val>Common Noun</val>
+        <val>Conjunction</val>
+        <val>Independent Personal Pronoun</val>
+        <val>Proper Name</val>
+        <val>Verb</val>
+        <val>Pronominal Suffix</val>
+        <val>Other Adverb</val>
+        <val>Relative Pronoun</val>
+        <val>Punctuation</val>
+        <val>Pronoun of Totality Base</val>
+        <val>Cardinal Numeral</val>
+        <val>Demonstrative Pronoun</val>
+        <val>Negative Particle</val>
+        <val>Presentational Particle Base</val>
+        <val>Interrogative Adverb</val>
+        <val>Other Particle</val>
+        <val>Pronoun of Solitude Base</val>
+        <val>Adverb</val>
+        <val>Interrogative Pronoun</val>
+        <val>Object Pronoun Base</val>
+        <val>Interrogative Particle</val>
+        <val>Quotative Particle</val>
+        <val>Subject Pronoun Base</val>
+        <val>Deictic Imperative Particle</val>
+        <val>Existential Negative Base</val>
+        <val>Foreign Material</val>
+        <val>Affirmative Particle</val>
+        <val>Existential Affirmative Base</val>
+        <val>Interjection</val>
+        <val>Vocative Particle</val>
+        <val>Ordinal Numeral</val>
+        <val>Accusative Particle</val>
+        <val>Possesive Pronoun Base</val>
+    </name>
+    <name name="logogram">
+        <val>20</val>
+        <val>3</val>
+        <val>2</val>
+        <val>1</val>
+        <val>5</val>
+        <val>4</val>
+        <val>100</val>
+        <val>10</val>
+        <val>6</val>
+        <val>9</val>
+        <val>50</val>
+        <val>7</val>
+        <val>8</val>
+        <val>80</val>
+        <val>10000</val>
+        <val>60</val>
+        <val>30</val>
+        <val>40</val>
+        <val>70</val>
+        <val>90</val>
+    </name>
+    <name name="distance">
+        <val>Near</val>
+        <val>Far</val>
+    </name>
+    <name name="gender">
+        <val>Unmarked</val>
+        <val>MasculineN</val>
+        <val>MasculineS</val>
+        <val>MasculineP</val>
+        <val>Communis</val>
+        <val>Masculine</val>
+        <val>Feminine</val>
+        <val>MasculinePS</val>
+        <val>FeminineS</val>
+        <val>FeminineN</val>
+        <val>FemininePS</val>
+        <val>FeminineP</val>
+        <val>MasculineNS</val>
+        <val>S</val>
+        <val>Sunmarked</val>
+        <val>MasculineS FeminineS</val>
+        <val>MasculineS FemininePS</val>
+        <val>FeminineNPS</val>
+        <val>MasculineS FeminineP</val>
+        <val>MasculineNP</val>
+        <val>FeminineNS</val>
+        <val>FeminineNP</val>
+        <val>P</val>
+        <val>MasculineNPS</val>
+        <val>MasculineP FeminineS</val>
+    </name>
+    <name name="person">
+        <val>First</val>
+        <val>Third</val>
+        <val>Second</val>
+        <val/>
+    </name>
+    <name name="state">
+        <val>Nominal state</val>
+        <val>Construct state</val>
+        <val>Absolute state</val>
+        <val>Pronominal state</val>
+    </name>
+    <name name="temp">
+        <val>Perfect</val>
+        <val>Imperfect</val>
+        <val>Subjunctive</val>
+        <val>Gerund</val>
+        <val>Imperative</val>
+        <val>Infinitive</val>
+    </name>
+</traces>
